@@ -8,7 +8,7 @@ There are right now 269,993,520 affirmed cases in 222 nations and regions . The 
 
 # Dataset Description 
 We have worked on the covid prediction dataset that we have acquired from github [15]. The dataset consists of 5184 total images in which we have taken 2084 images for training and 3100 images for Testing purposes. In training we have used 84 images for Covid and 2000 images for Non-Covid. In testing we have taken 100 images for Covid and 3000 images for Non-Covid.
- 
+ 1) The Dataset link is as follows https://drive.google.com/drive/folders/1PQyLPCZvwN1T6NopAiAHA9O-q5SpgHNH?usp=sharing
 # References 
 
 [1]. Tyrrell DA, Bynoe ML. Cultivation of viruses from a high proportion of patients with colds. Lancet 1966: 1: 76–77.
